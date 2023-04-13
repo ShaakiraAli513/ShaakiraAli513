@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Shaakira Ali
 - 👀 I’m interested in Web Development & Applications
-- 🌱 I’m currently learning AWS, Flask, Django, React
+- 🌱 I’m currently learning AWS, Flask, Django, React, API's
 - 💞️ I’m looking to collaborate with other Web Developers
 - 📫 How to reach me shaakira.ali.codes@gmail.com
 
