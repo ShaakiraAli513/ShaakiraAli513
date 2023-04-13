@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development & Applications
 - 🌱 I’m currently learning AWS, Flask, Django, React, API's
 - 💞️ I’m looking to collaborate with other Web Developers
-- 📫 How to reach me shaakira.ali.codes@gmail.com
+- 📫 How to reach me webdev.sali@gmail.com
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shaakira%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaakira-ali-codes/)](https://www.linkedin.com/in/shaakira-ali-codes/)
-[![Gmail Badge](https://img.shields.io/badge/-shaakira.ali.codes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaakira.ali.codes@gmail.com)](mailto:shaakira.ali.codes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-webdev.sali@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webdev.sali@gmail.com)](mailto:webdev.sali@gmail.com)
 
 ## ⚡ Technologies
 
