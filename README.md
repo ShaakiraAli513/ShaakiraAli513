@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 👋 Hi, I’m Shaakira Ali
 - 👀 I’m interested in Web Development & Applications
